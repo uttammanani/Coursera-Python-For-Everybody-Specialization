@@ -14,5 +14,5 @@ for line in fh:
         x = line[findNum:]
         floatSum = floatSum + float(x)
 
-average = float(floatSum/cnt)
-print("Average spam confidence:",average)
+avg = float(floatSum/cnt)
+print("Average spam confidence:",avg)
