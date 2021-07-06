@@ -26,7 +26,7 @@ a = [1, 2, 3]
 b = [4, 5, 6]
 c = a + b
 print(len(c))
->>  Ans: 6
+>>    Ans: 6
 
 8. Which of the following slicing operations will produce the list [12,3]?
 t = [9, 41, 12, 3, 74, 15]
